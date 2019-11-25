@@ -1,0 +1,19 @@
+---
+development:
+  cloud_name: zakstorage
+  api_key: '736995531929333'
+  api_secret: UwT9L3KShyfm4Uo9aTLukI0skXY
+  enhance_image_tag: true
+  static_file_support: false
+production:
+  cloud_name: zakstorage
+  api_key: '736995531929333'
+  api_secret: UwT9L3KShyfm4Uo9aTLukI0skXY
+  enhance_image_tag: true
+  static_file_support: true
+test:
+  cloud_name: zakstorage
+  api_key: '736995531929333'
+  api_secret: UwT9L3KShyfm4Uo9aTLukI0skXY
+  enhance_image_tag: true
+  static_file_support: false
